@@ -90,4 +90,6 @@ Esto evita el uso de retardos bloqueantes y permite que el muestreo sea continuo
   * Reporta el error por el puerto serial.
 * Las lecturas analógicas se reinician después de cada reporte.
 
+### En la carpeta Demostration se encuentra un video en donde se evidencia el funcionamiento del sistema.
+
 Para más información revisar el reporte que se encuentra en la raíz del repositorio.
